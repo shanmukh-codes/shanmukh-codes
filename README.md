@@ -107,8 +107,10 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- ================= FOOTER =================
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=120&section=footer"/>
 </p>
+
+ -->
