@@ -93,8 +93,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saiganesh00&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiganesh00&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shanmukh-codes&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukh-codes&layout=compact"/>
 </div>
 
 <div align="center">
