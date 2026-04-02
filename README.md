@@ -98,7 +98,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiganesh00"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanmukh-codes"/>
 </div>
 
 ---
